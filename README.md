@@ -1,1 +1,1 @@
-Ein C++ Programm die eine Berufsschulabschlussnote berechnet.
+Ein C++ Programm, das eine Berufsschulabschlussnote berechnet.
